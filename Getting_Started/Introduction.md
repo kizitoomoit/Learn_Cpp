@@ -4,6 +4,8 @@ Before we dip our feet into C++ programming lanuguage we need to understand what
 
 C++ is an object oriented, Powerfull general-purpose programming language, which can be used to develop Operating systems,games, firmwares etc.
 C++ is a compiled programming language, the cpp compiler takes the c++ source code and converts it into the machine code which the computer can understand.
+*source code* - This refers to the instructions written by a programmer in a human readable form ready to be converted into machine language.
+
 
 ## TOOLS NEEDED FOR THE WORK
 
@@ -11,5 +13,10 @@ For us to be able to code in C++ we need to type our code somewhere on the compu
 
 The tools needed for us to successfully program in C++ is as follows:-
 1. Text editor - for us to be able to write our source code and save it somehwere on the computer.
-2. Debugger - This will help us be the dectective by helping us track and elminate bugs, another technical term introduced "bug" but don't worry I got you covered we will come to that in a moment.
+2. Debugger - This will help us be the dectective by helping us track and elminate bugs, another technical term introduced *bug* but don't worry I got you covered we will come to that in a moment.
 3. Compiler - This now helps us convert our well written C++ source code which is human readable language to machine readable language for the machine to understand the instructions we are giving it to execute.
+4. IDE - This is an Intergrated Development Environment which is basically Text editor, Debugger and Compiler combined together into one program.
+
+*bug* - In computer programming a bug refers to an error that accurs in a source code written by a programmer.
+
+
