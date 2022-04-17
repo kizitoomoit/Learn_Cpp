@@ -19,4 +19,11 @@ The tools needed for us to successfully program in C++ is as follows:-
 
 *bug* - In computer programming a bug refers to an error that accurs in a source code written by a programmer.
 
+## SETTING UP OUR DEVELOPMENT ENVIROMENT
+
+Now its time to get our hands dirty, lets get our tools for work and getting working already.
+It doens't matter which operating system you are using because this tools (IDE) that we are going to use are available in Linux, MacOS and Windows.
+We can choose to either use [Codeblocks]([200~https://www.codeblocks.org/downloads/binaries/) or [Visual Studio Code]([200~https://code.visualstudio.com/docs/cpp/config-mingw).
+
+
 
