@@ -1,4 +1,4 @@
-                   #INTRODUCTION TO C++
+                   # INTRODUCTION TO C++
 Before we dip our feet into C++ programming lanuguage we need to understand what it is.
 
 C++ is an object oriented, Powerfull general-purpose programming language, which can be used to develop Operating systems,games, firmwares etc.
