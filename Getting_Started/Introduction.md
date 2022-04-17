@@ -23,7 +23,7 @@ The tools needed for us to successfully program in C++ is as follows:-
 
 Now its time to get our hands dirty, lets get our tools for work and getting working already.
 It doens't matter which operating system you are using because this tools (IDE) that we are going to use are available in Linux, MacOS and Windows.
-We can choose to either use [Codeblocks]([https://www.codeblocks.org/downloads/binaries/) or [Visual Studio Code]([https://code.visualstudio.com/docs/cpp/config-mingw).
+We can choose to either use [Codeblocks](https://www.codeblocks.org/downloads/binaries/) or [Visual Studio Code](https://code.visualstudio.com/docs/cpp/config-mingw).
 
 
 
