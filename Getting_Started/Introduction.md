@@ -4,7 +4,9 @@ Before we dip our feet into C++ programming lanuguage we need to understand what
 
 C++ is an object oriented, Powerfull general-purpose programming language, which can be used to develop Operating systems,games, firmwares etc.
 C++ is a compiled programming language, the cpp compiler takes the c++ source code and converts it into the machine code which the computer can understand.
+
 *source code* - This refers to the instructions written by a programmer in a human readable form ready to be converted into machine language.
+For our computer to understand that this one is a c++ source code we have to add an extension of .cpp infront of our source code file name.
 
 
 ## TOOLS NEEDED FOR THE WORK
