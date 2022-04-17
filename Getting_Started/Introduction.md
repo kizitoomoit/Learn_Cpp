@@ -1,4 +1,4 @@
-                   # INTRODUCTION TO C++
+# INTRODUCTION TO C++
 
 Before we dip our feet into C++ programming lanuguage we need to understand what it is.
 
